@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/1991facundo/docker_linux_01#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.12.0"
   }
 }
